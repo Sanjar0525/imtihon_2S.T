@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.menu {
+    width: 100% !important;
+    display: flex !important;
+    
+}
+.search {
+    position: absolute;
+
+}
+.rasim{
+    margin: 20px !important;
+    object-fit: cover ;
+}
